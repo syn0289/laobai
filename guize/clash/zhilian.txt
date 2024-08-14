@@ -1,5 +1,6 @@
-  #- SRC-IP-CIDR,192.168.31.11/32,DIRECT #使用此规则可以使某个设备，走指定节点！只用更换192.168.31.11，不用管32！
-  #- PROCESS-NAME,Cinema 4D.exe,REJECT
+#- SRC-IP-CIDR,192.168.31.11/32,DIRECT #使用此规则可以使某个设备，走指定节点！只用更换192.168.31.11，不用管32！
+#- PROCESS-NAME,Cinema 4D.exe,REJECT
+payload:
   - DOMAIN-SUFFIX,api.mcneel.com
   - PROCESS-NAME,Photoshop.exe
   - PROCESS-NAME,Illustrator.exe
