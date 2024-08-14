@@ -1,0 +1,13 @@
+payload:
+  - DOMAIN-SUFFIX,coze.com
+  - DOMAIN-SUFFIX,api.revenuecat.com
+  - DOMAIN-SUFFIX,yahoo.com
+  - DOMAIN-SUFFIX,sentry-new.protontech.ch
+  - IP-CIDR,95.0.0.0/8,no-resolve
+  - DOMAIN-SUFFIX,ohttp-relay1.fastly-edge.com
+  - IP-CIDR,34.64.0.0/10,no-resolve
+  - DOMAIN-SUFFIX,roovza-launches.appsflyersdk.com
+  - DOMAIN-SUFFIX,api.snapkit.com
+  - DOMAIN-SUFFIX,fraud-api.dyneti.com
+  - DOMAIN-SUFFIX,api.sprig.com
+  - DOMAIN-SUFFIX,cdn.joinhoney.com
