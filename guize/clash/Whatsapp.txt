@@ -1,0 +1,6 @@
+DOMAIN,graph.facebook.com
+DOMAIN-SUFFIX,bintray.com
+DOMAIN-SUFFIX,whatsapp.biz
+DOMAIN-SUFFIX,whatsapp.com
+DOMAIN-SUFFIX,whatsapp.net
+DOMAIN-KEYWORD,whatsapp
