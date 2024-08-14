@@ -1,1 +1,4 @@
-
+payload:
+  - DOMAIN-SUFFIX,nytimes.com
+  - DOMAIN-SUFFIX,chinadigitaltimes.net
+  - DOMAIN-SUFFIX,pincong.rocks
