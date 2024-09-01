@@ -5,7 +5,7 @@ payload:
   - PROCESS-NAME,Photoshop.exe
   - PROCESS-NAME,Illustrator.exe
   - PROCESS-NAME,Rhino.exe
-  - DOMAIN-SUFFIX,maxon.net
+  #- DOMAIN-SUFFIX,maxon.net
   - DOMAIN-SUFFIX,zcool.com.cn
   - DOMAIN-SUFFIX,blender.org
   - DOMAIN-SUFFIX,blenderco.cn
