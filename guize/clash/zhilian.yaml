@@ -47,3 +47,4 @@ payload:
   - DOMAIN-SUFFIX,lggafw.com
   - DOMAIN-SUFFIX,raindrop.io
   - DOMAIN-SUFFIX,cloudfront.net
+  - DOMAIN-SUFFIX,cloudflare.com
