@@ -48,3 +48,4 @@ payload:
   - DOMAIN-SUFFIX,raindrop.io
   - DOMAIN-SUFFIX,cloudfront.net
   - DOMAIN-SUFFIX,cloudflare.com
+  - DOMAIN-KEYWORD,vsco
