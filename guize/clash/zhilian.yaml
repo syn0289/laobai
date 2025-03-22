@@ -49,3 +49,4 @@ payload:
   - DOMAIN-SUFFIX,cloudfront.net
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-KEYWORD,vsco
+  - DOMAIN-SUFFIX,metass.top
