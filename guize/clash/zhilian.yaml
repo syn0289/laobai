@@ -111,6 +111,6 @@ payload:
   - DOMAIN-SUFFIX,liblib.art
   - DOMAIN-SUFFIX,qq.com
   - DOMAIN-SUFFIX,3d66.com
-  - DOMAIN-SUFFIX,yuque.com
+  - DOMAIN-KEYWORD,yuque.com
 
   
