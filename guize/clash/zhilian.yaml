@@ -112,5 +112,6 @@ payload:
   - DOMAIN-SUFFIX,qq.com
   - DOMAIN-SUFFIX,3d66.com
   - DOMAIN-KEYWORD,yuque.com
+  - DOMAIN-SUFFIX,127.0.0.1:8188
 
   
