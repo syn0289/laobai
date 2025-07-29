@@ -118,6 +118,7 @@ payload:
   - DOMAIN-SUFFIX,tencent.com
   - DOMAIN-SUFFIX,digitfold.com
   - DOMAIN-SUFFIX,blender.org
+  - DOMAIN-SUFFIX,blenderco.cn
 
 
   
