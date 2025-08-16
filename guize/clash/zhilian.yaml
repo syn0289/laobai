@@ -9,7 +9,7 @@ payload:
   - DOMAIN-SUFFIX,zcool.com.cn
   - DOMAIN-SUFFIX,blender.org
   - DOMAIN-SUFFIX,blenderco.cn
-  - DOMAIN-SUFFIX,otoy.com
+  - DOMAIN-KEYWORD,otoy.com
   - DOMAIN-SUFFIX,oajay.com
   - DOMAIN-SUFFIX,sidefx.com
   - DOMAIN-SUFFIX,qlogo.cn
