@@ -5,7 +5,7 @@ payload:
   - PROCESS-NAME,Photoshop.exe
   - PROCESS-NAME,Illustrator.exe
   - PROCESS-NAME,Rhino.exe
-  #- DOMAIN-SUFFIX,maxon.net
+  - DOMAIN-SUFFIX,maxon.net
   - DOMAIN-SUFFIX,zcool.com.cn
   - DOMAIN-SUFFIX,blender.org
   - DOMAIN-SUFFIX,blenderco.cn
@@ -35,7 +35,7 @@ payload:
   - DOMAIN-SUFFIX,visualstudio.com
   - DOMAIN-SUFFIX,jijidown.com
   - DOMAIN-SUFFIX,mefcl.com
-  - DOMAIN-SUFFIX,p1.bxy-fun1.xyz
+  - DOMAIN-SUFFIX,fun1.xyz
   - DOMAIN-SUFFIX,quizlet.com
   - DOMAIN-SUFFIX,onetrust.io
   - DOMAIN-SUFFIX,appsflyersdk.com
@@ -118,7 +118,7 @@ payload:
   - DOMAIN-SUFFIX,peiyinshenqi.com
   - DOMAIN-SUFFIX,xuexiniu.com
   - DOMAIN-SUFFIX,fab.com
-  - DOMAIN-SUFFIX,m.zhipin.com
+  - DOMAIN-SUFFIX,zhipin.com
   - DOMAIN-SUFFIX,mybluhd.cn
   - DOMAIN-KEYWORD,tuchong
   - DOMAIN-KEYWORD,poco
