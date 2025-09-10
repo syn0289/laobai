@@ -37,10 +37,8 @@ payload:
   - DOMAIN-SUFFIX,mefcl.com
   - DOMAIN-SUFFIX,p1.bxy-fun1.xyz
   - DOMAIN-SUFFIX,quizlet.com
-  - DOMAIN-SUFFIX,mobile-data.onetrust.io
-  - DOMAIN-SUFFIX,clzbmn-launches.appsflyersdk.com
-  - DOMAIN-SUFFIX,clzbmn-skadsdkless.appsflyersdk.com
-  - DOMAIN-SUFFIX,clzbmn-gcdsdk.appsflyersdk.com
+  - DOMAIN-SUFFIX,onetrust.io
+  - DOMAIN-SUFFIX,appsflyersdk.com
   - DOMAIN-SUFFIX,hongxingdl.com
   - DOMAIN-SUFFIX,xn--cp3a08l.com
   - DOMAIN-SUFFIX,xiaotucc.com
@@ -52,7 +50,7 @@ payload:
   - DOMAIN-SUFFIX,metass.top
   - DOMAIN-KEYWORD,360.cn
   - DOMAIN-SUFFIX,eqishare.com
-  - DOMAIN-SUFFIX,down2.sdbeta.com
+  - DOMAIN-SUFFIX,sdbeta.com
   - DOMAIN-SUFFIX,cgexe.com
   - DOMAIN-SUFFIX,3dsmj.com
   - DOMAIN-SUFFIX,znzmo.com
@@ -69,7 +67,7 @@ payload:
   - DOMAIN-SUFFIX,cilisucai.com
   - DOMAIN-SUFFIX,xiarensucai.com
   - DOMAIN-SUFFIX,fqsucai.eralab.cn
-  - DOMAIN-SUFFIX,www.ltxzsc.com
+  - DOMAIN-SUFFIX,ltxzsc.com
   - DOMAIN-SUFFIX,xianlv6.cn
   - DOMAIN-SUFFIX,qfsucai.com
   - DOMAIN-SUFFIX,link.zhihu.com
@@ -95,12 +93,12 @@ payload:
   - DOMAIN-SUFFIX,woaidonghua.cn
   - DOMAIN-SUFFIX,yelingying.com
   - DOMAIN-SUFFIX,guipisucai.com
-  - DOMAIN-SUFFIX,guipisucai.com mugunsucai.com
+  - DOMAIN-SUFFIX,mugunsucai.com
   - DOMAIN-SUFFIX,tuoluosucai.com
   - DOMAIN-SUFFIX,sd11311.com
   - DOMAIN-SUFFIX,sucaixx.com
   - DOMAIN-SUFFIX,13sucai.com
-  - DOMAIN-SUFFIX,s.wsxc.cn/2G6WRY
+  - DOMAIN-SUFFIX,wsxc.cn
   - DOMAIN-SUFFIX,shadiaoyizhan.cn
   - DOMAIN-SUFFIX,xiaoyousucai.com
   - DOMAIN-SUFFIX,zhuanlianzhihu.com
@@ -122,4 +120,6 @@ payload:
   - DOMAIN-SUFFIX,fab.com
   - DOMAIN-SUFFIX,m.zhipin.com
   - DOMAIN-SUFFIX,mybluhd.cn
-  - DOMAIN-SUFFIX,tuchong.com
+  - DOMAIN-KEYWORD,tuchong
+  - DOMAIN-KEYWORD,poco
+  - DOMAIN-SUFFIX,modown.cn
