@@ -26,7 +26,7 @@ payload:
   - DOMAIN-SUFFIX,c4dsky.com
   - DOMAIN-SUFFIX,deepin.com
   - DOMAIN-SUFFIX,qzdcg.com
-  - DOMAIN-SUFFIX,aboutcg.org
+  - DOMAIN-KEYWORD,aboutcg.org
   - DOMAIN-SUFFIX,gfxcamp.com
   - DOMAIN-SUFFIX,huaban.com
   - DOMAIN-SUFFIX,itellyou.cn
