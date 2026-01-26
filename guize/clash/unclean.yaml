@@ -1,3 +1,2 @@
 payload:
-  #- DOMAIN-SUFFIX,cloudflare.com
-  - DOMAIN-SUFFIX,api.ipify.org
+  - DOMAIN-SUFFIX,theoryaccelerated.com
