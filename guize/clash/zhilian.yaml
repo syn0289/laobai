@@ -109,9 +109,8 @@ payload:
   - DOMAIN-SUFFIX,liblib.art
   - DOMAIN-SUFFIX,qq.com
   - DOMAIN-SUFFIX,3d66.com
-  - DOMAIN-KEYWORD,yuque.com
+  - DOMAIN-SUFFIX,yuque.com
   - DOMAIN-SUFFIX,graph.qq.com
-  - DOMAIN-SUFFIX,qq.com
   - DOMAIN-SUFFIX,gtimg.cn
   - DOMAIN-SUFFIX,tencent.com
   - DOMAIN-SUFFIX,digitfold.com
@@ -120,8 +119,7 @@ payload:
   - DOMAIN-SUFFIX,fab.com
   - DOMAIN-SUFFIX,zhipin.com
   - DOMAIN-SUFFIX,mybluhd.cn
-  - DOMAIN-KEYWORD,tuchong
-  - DOMAIN-KEYWORD,poco
+  - DOMAIN-SUFFIX,tuchong.com
   - DOMAIN-SUFFIX,modown.cn
   - DOMAIN-SUFFIX,hongxingyun.xyz
   - DOMAIN-SUFFIX,hongxing.one
