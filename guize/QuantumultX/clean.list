@@ -1,3 +1,5 @@
 HOST-SUFFIX,greasyfork.org
-HOST-SUFFIX,cloudfront.net
-HOST-SUFFIX,cloudflare.com
+HOST-SUFFIX,cloudflare.net
+HOST-SUFFIX,cfturnstile.com
+HOST-SUFFIX,cloudflarest.com
+HOST-SUFFIX,cloudflareinsights.com
