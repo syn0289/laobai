@@ -44,8 +44,6 @@ payload:
   - DOMAIN-SUFFIX,xiaotucc.com
   - DOMAIN-SUFFIX,lggafw.com
   - DOMAIN-SUFFIX,raindrop.io
-  - DOMAIN-SUFFIX,cloudfront.net
-  - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-KEYWORD,vsco
   - DOMAIN-SUFFIX,metass.top
   - DOMAIN-KEYWORD,360.cn
