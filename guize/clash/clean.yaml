@@ -1,5 +1,7 @@
 payload:
   - DOMAIN-SUFFIX,styleai.art
   - DOMAIN-SUFFIX,vivaldi.com
-  - DOMAIN-SUFFIX,cloudfront.net
   - DOMAIN-SUFFIX,cloudflare.com
+  - DOMAIN-SUFFIX,cfturnstile.com
+  - DOMAIN-SUFFIX,cloudflarest.com
+  - DOMAIN-SUFFIX,cloudflareinsights.com
