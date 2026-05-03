@@ -26,3 +26,8 @@ payload:
   - DOMAIN-SUFFIX,ccmdl.adobe.com
   - DOMAIN-SUFFIX,adobelogin.com
   - DOMAIN-SUFFIX,api.corilab.adobe.io
+#-------------------------
+  - DOMAIN-SUFFIX,*.adobe.io,REJECT
+  - DOMAIN-SUFFIX,*.adobestats.io,REJECT
+  - DOMAIN-SUFFIX,adobe.io,REJECT
+  - DOMAIN-SUFFIX,adobestats.io,REJECT
