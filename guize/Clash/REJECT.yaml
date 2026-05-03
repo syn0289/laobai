@@ -1,5 +1,28 @@
 payload:
+  # ====== 你原有的规则 ======
   - DOMAIN-SUFFIX,api.mcneel.com
   - PROCESS-NAME,Photoshop.exe
   - PROCESS-NAME,Illustrator.exe
   - PROCESS-NAME,Rhino.exe
+  - PROCESS-NAME,AfterFX.exe
+  - PROCESS-NAME,Adobe Audition.exe
+  - PROCESS-NAME,Animate.exe
+
+  # ====== 补充的 Adobe 后台与验证进程 ======
+  - PROCESS-NAME,Creative Cloud.exe
+  - PROCESS-NAME,Adobe Desktop Service.exe
+  - PROCESS-NAME,CCXProcess.exe
+  - PROCESS-NAME,CoreSync.exe
+  - PROCESS-NAME,AdobeIPCBroker.exe
+  - PROCESS-NAME,AGSService.exe
+  - PROCESS-NAME,AGMService.exe
+  - PROCESS-NAME,AdobeNotificationClient.exe
+
+  # ====== 补充的 Adobe 授权验证与遥测域名 ======
+  - DOMAIN-SUFFIX,genuine.adobe.com
+  - DOMAIN-SUFFIX,prod.adobegenuine.com
+  - DOMAIN-SUFFIX,lm.licenses.adobe.com
+  - DOMAIN-SUFFIX,ccmdls.adobe.com
+  - DOMAIN-SUFFIX,ccmdl.adobe.com
+  - DOMAIN-SUFFIX,adobelogin.com
+  - DOMAIN-SUFFIX,api.corilab.adobe.io
