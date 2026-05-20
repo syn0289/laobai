@@ -123,3 +123,33 @@ payload:
   - DOMAIN-SUFFIX,qianyin123.com
   - DOMAIN-SUFFIX,hongxing.one
   - DOMAIN-SUFFIX,naver.com
+  - DOMAIN-SUFFIX,autodesk.com
+  - DOMAIN-SUFFIX,autodesk360.com
+  - DOMAIN-SUFFIX,library.io
+  - DOMAIN-SUFFIX,akamai.com
+  - DOMAIN-SUFFIX,akamaitechnologies.com
+  - DOMAIN-SUFFIX,akamaiedge.net
+  - DOMAIN-SUFFIX,amazonaws.com
+  - DOMAIN-SUFFIX,cloudfront.net
+  - DOMAIN-SUFFIX,hcaptcha.com
+  - DOMAIN-SUFFIX,damassets.net
+  - DOMAIN-SUFFIX,google-analytics.com
+  - DOMAIN-SUFFIX,googletagmanager.com
+  - DOMAIN-SUFFIX,launchdarkly.com
+  - DOMAIN-SUFFIX,mcmaster.com
+  - DOMAIN-SUFFIX,pndsn.com
+  - DOMAIN-SUFFIX,pubnub.com
+  - DOMAIN-SUFFIX,pubnubapi.com
+  - DOMAIN-SUFFIX,requirejs.org
+  - DOMAIN-SUFFIX,tracepartsonline.net
+  - DOMAIN-SUFFIX,newrelic.com
+  - DOMAIN-SUFFIX,nr-data.net
+  - DOMAIN-SUFFIX,bluesnap.com
+  - DOMAIN-SUFFIX,ensighten.com
+  - DOMAIN-SUFFIX,symcb.com
+  - DOMAIN-SUFFIX,symcd.com
+  - DOMAIN-SUFFIX,geotrust.com
+  - DOMAIN-SUFFIX,pki.goog
+  - DOMAIN-SUFFIX,ss2.us
+  - DOMAIN-SUFFIX,digicert.com
+  - DOMAIN-SUFFIX,amazontrust.com
