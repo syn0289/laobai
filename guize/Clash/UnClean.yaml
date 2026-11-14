@@ -6,4 +6,5 @@ payload:
   - DOMAIN-KEYWORD,hongxingyun
   - DOMAIN-KEYWORD,hongxing5s
   - DOMAIN-KEYWORD,mojie.me
-  - DOMAIN-KEYWORD,d1api.xin
+  - DOMAIN-SUFFIX,d1api.xin
+  - DOMAIN-SUFFIX,xfastest.com
